@@ -1,0 +1,10 @@
+pip install --upgrade wheel
+pip install --upgrade pip
+pip install customtkinter #Global interface
+pip install openpyxl #Manage sheet files
+pip install pygame #Play sound files
+pip install pyttsx3 #Word pronunciation
+pip install pillow
+pip install -U pyinstaller #Convert .py to .exe
+pip install gTTS
+pip install playsound==1.2.2 #Works only with downgrade
