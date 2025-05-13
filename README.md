@@ -61,7 +61,7 @@ If you're setting up this Spelling Bee application on a local machine (such as a
 git clone https://github.com/deyvisonlizardo/spelling-bee.git
 ```
 ```bash
-cd spelling-bee-app
+cd spelling-bee
 ```
 
 #### 3. Install required dependencies
