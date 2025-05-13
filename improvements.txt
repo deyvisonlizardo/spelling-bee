@@ -1,0 +1,2 @@
+- Add competition history: which word was was chosen to certain student, correct or wrong, and in which round
+- Recovery points

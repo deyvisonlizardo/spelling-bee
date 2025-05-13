@@ -1,0 +1,1942 @@
+[
+    {
+        "word": "ACCIDENT",
+        "part_of_speech": "noun",
+        "example": "We saw a car accident yesterday."
+    },
+    {
+        "word": "ACCIDENTAL",
+        "part_of_speech": "adjective",
+        "example": "She's in the hospital because of an accidental fall."
+    },
+    {
+        "word": "ACCOUNTANT",
+        "part_of_speech": "noun",
+        "example": "She loves numbers, she works as an accountant."
+    },
+    {
+        "word": "ACHIEVEMENT",
+        "part_of_speech": "noun",
+        "example": "Getting the job was a big achievement for her."
+    },
+    {
+        "word": "ADVANTAGE",
+        "part_of_speech": "noun",
+        "example": "His advantage in the game was his quick reflexes."
+    },
+    {
+        "word": "ADVENTURE",
+        "part_of_speech": "noun",
+        "example": "I went on a adventure in the forest."
+    },
+    {
+        "word": "AIRPLANE",
+        "part_of_speech": "noun",
+        "example": "The airplane landed two hours late."
+    },
+    {
+        "word": "ALLOWED",
+        "part_of_speech": "verb",
+        "example": "Are we allowed to use our phones here?"
+    },
+    {
+        "word": "AMAZING",
+        "part_of_speech": "noun",
+        "example": "That’s an amazing idea; let’s do it!"
+    },
+    {
+        "word": "AMAZON",
+        "part_of_speech": "noun",
+        "example": "The Amazon River is one of the longest river in the world."
+    },
+    {
+        "word": "AMUSEMENT",
+        "part_of_speech": "noun",
+        "example": "My favorite ride at the amusement park was the carousel."
+    },
+    {
+        "word": "AMUSING",
+        "part_of_speech": "adjective",
+        "example": "The movie was so amusing that everyone laughed out loud."
+    },
+    {
+        "word": "ANIMATED",
+        "part_of_speech": "adjective",
+        "example": "The animated movie made everyone laugh and smile."
+    },
+    {
+        "word": "ANNOYING",
+        "part_of_speech": "adjective",
+        "example": "It’s annoying when people talk loudly on the phone in public."
+    },
+    {
+        "word": "ANNUALLY",
+        "part_of_speech": "adverb",
+        "example": "I pay for these streaming services annually."
+    },
+    {
+        "word": "APARTMENT",
+        "part_of_speech": "noun",
+        "example": "He rented a small apartment near his university."
+    },
+    {
+        "word": "APPEAR",
+        "part_of_speech": "verb",
+        "example": "The stars will appear once the sky gets darker."
+    },
+    {
+        "word": "AQUARIUM",
+        "part_of_speech": "noun",
+        "example": "There are many species of sea animals in the aquarium."
+    },
+    {
+        "word": "ARCHITECT",
+        "part_of_speech": "noun",
+        "example": "The architect designed a modern building with large windows."
+    },
+    {
+        "word": "ARCHITECTURE",
+        "part_of_speech": "noun",
+        "example": "Architecture is the art of designing and constructing buildings."
+    },
+    {
+        "word": "AROUND",
+        "part_of_speech": "preposition",
+        "example": "There are many stores sround the park."
+    },
+    {
+        "word": "ARRANGE",
+        "part_of_speech": "verb",
+        "example": "Guilherme can arrange things for our vacation."
+    },
+    {
+        "word": "ARTIFICIAL",
+        "part_of_speech": "adjective",
+        "example": "Artificial intelligence is changing the way we live and work."
+    },
+    {
+        "word": "ARTIST",
+        "part_of_speech": "noun",
+        "example": "The artist painted a beautiful landscape."
+    },
+    {
+        "word": "ASTRONOMER",
+        "part_of_speech": "noun",
+        "example": "The astronomer used a telescope to see the planet."
+    },
+    {
+        "word": "ATHLETE",
+        "part_of_speech": "noun",
+        "example": "The athlete trained for months for the race."
+    },
+    {
+        "word": "AVENUE",
+        "part_of_speech": "noun",
+        "example": "Millenium shopping mall is on Djalma Batista Avenue."
+    },
+    {
+        "word": "AVOCADO",
+        "part_of_speech": "noun",
+        "example": "I love eating toast with smashed avocado."
+    },
+    {
+        "word": "AWESOME",
+        "part_of_speech": "adjective",
+        "example": "I'm listening to an awesome music!"
+    },
+    {
+        "word": "BACKACHE",
+        "part_of_speech": "noun",
+        "example": "You can get a backache if you keep this bad posture"
+    },
+    {
+        "word": "BACKPACK",
+        "part_of_speech": "noun",
+        "example": "She packed her books and lunch in her backpack."
+    },
+    {
+        "word": "BEARD",
+        "part_of_speech": "noun",
+        "example": "That man has a funny beard on his face."
+    },
+    {
+        "word": "BEAUTIFUL",
+        "part_of_speech": "adjective",
+        "example": "Red roses are more beautiful than white roses."
+    },
+    {
+        "word": "BEFORE",
+        "part_of_speech": "preposition",
+        "example": "I don't eat candies before lunch."
+    },
+    {
+        "word": "BEHIND",
+        "part_of_speech": "preposition",
+        "example": "There is a bus stop behind the hospital."
+    },
+    {
+        "word": "BERRY",
+        "part_of_speech": "noun",
+        "example": "I baked a red berry pie."
+    },
+    {
+        "word": "BETWEEN",
+        "part_of_speech": "preposition",
+        "example": "ICBEU is between Ciesa and Bob's."
+    },
+    {
+        "word": "BIGGER",
+        "part_of_speech": "adjective",
+        "example": "Dogs are bigger than cats."
+    },
+    {
+        "word": "BIGGEST",
+        "part_of_speech": "adjective",
+        "example": "The White Shark is the biggest animal in the world."
+    },
+    {
+        "word": "BIOLOGY",
+        "part_of_speech": "noun",
+        "example": "He studies biology because he loves learning about animals and plants."
+    },
+    {
+        "word": "BITTER",
+        "part_of_speech": "adjective",
+        "example": "The soup tastes a little bitter today."
+    },
+    {
+        "word": "BLIZZARD",
+        "part_of_speech": "noun",
+        "example": "The snowstorm turned into a full blizzard overnight."
+    },
+    {
+        "word": "BOOKCASE",
+        "part_of_speech": "noun",
+        "example": "I put all my books back on the bookcase after cleaning."
+    },
+    {
+        "word": "BOOKMARK",
+        "part_of_speech": "noun",
+        "example": "I added the page to my browser’s bookmark to find it later."
+    },
+    {
+        "word": "BORROW",
+        "part_of_speech": "verb",
+        "example": "Can I borrow your pen? I forgot mine at home."
+    },
+    {
+        "word": "BOUQUET",
+        "part_of_speech": "noun",
+        "example": "She received a bouquet of flowers for her birthday."
+    },
+    {
+        "word": "BOYFRIEND",
+        "part_of_speech": "noun",
+        "example": "My boyfriend gave me a beautiful gift."
+    },
+    {
+        "word": "BRACELETS",
+        "part_of_speech": "noun",
+        "example": "He’s wearing black bracelets on his wrist."
+    },
+    {
+        "word": "BRACES",
+        "part_of_speech": "noun",
+        "example": "I went to the dentist and got my braces checked."
+    },
+    {
+        "word": "BRIDGE",
+        "part_of_speech": "noun",
+        "example": "The bridge connects two cities over the river."
+    },
+    {
+        "word": "BROWSING",
+        "part_of_speech": "verb",
+        "example": "I'm browsing for some itens on this website."
+    },
+    {
+        "word": "BURGER",
+        "part_of_speech": "noun",
+        "example": "Let’s have a burger and fries for lunch."
+    },
+    {
+        "word": "BUSINESS",
+        "part_of_speech": "noun",
+        "example": "She decided to major in business because she wants to run her own company."
+    },
+    {
+        "word": "CAFETERIA",
+        "part_of_speech": "noun",
+        "example": "My school doesn't have a cafeteria."
+    },
+    {
+        "word": "CALENDAR",
+        "part_of_speech": "noun",
+        "example": "The teacher wrote all the important dates on the calendar."
+    },
+    {
+        "word": "CELEBRATE",
+        "part_of_speech": "verb",
+        "example": "We always celebrate birthdays with cake and balloons."
+    },
+    {
+        "word": "CHALLENGE",
+        "part_of_speech": "noun",
+        "example": "Completing the race was a real challenge for me."
+    },
+    {
+        "word": "CHANGE",
+        "part_of_speech": "verb",
+        "example": "I need to change buses when I arrive at the next station."
+    },
+    {
+        "word": "CHARGER",
+        "part_of_speech": "noun",
+        "example": "I forgot to bring my phone charger on the trip."
+    },
+    {
+        "word": "CHARITY",
+        "part_of_speech": "noun",
+        "example": "My mother is donating my clothes for charity."
+    },
+    {
+        "word": "CHECKOUT",
+        "part_of_speech": "noun",
+        "example": "People pay for their things at the checkout."
+    },
+    {
+        "word": "CHEERFUL",
+        "part_of_speech": "adjective",
+        "example": "She is a cheerful person who makes everyone smile."
+    },
+    {
+        "word": "CHEESE",
+        "part_of_speech": "noun",
+        "example": "Chees pizza is my favorite."
+    },
+    {
+        "word": "CHEMISTRY",
+        "part_of_speech": "noun",
+        "example": "Chemistry experiments can be fascinating but require a lot of focus."
+    },
+    {
+        "word": "CHILDREN",
+        "part_of_speech": "noun",
+        "example": "My mother had 3 children. Two boys and one girl."
+    },
+    {
+        "word": "CLASSICAL",
+        "part_of_speech": "adjective",
+        "example": "I don't like classical music."
+    },
+    {
+        "word": "CLASSMATES",
+        "part_of_speech": "noun",
+        "example": "My classmates always help me with homework."
+    },
+    {
+        "word": "CLEANING",
+        "part_of_speech": "verb",
+        "example": "João is cleaning his bedroom."
+    },
+    {
+        "word": "CLIMBING",
+        "part_of_speech": "verb",
+        "example": "The cat is climbing the tree."
+    },
+    {
+        "word": "CLINIC",
+        "part_of_speech": "noun",
+        "example": "We visited the clinic to get our vaccinations."
+    },
+    {
+        "word": "CLOTHES",
+        "part_of_speech": "noun",
+        "example": "She packed her clothes neatly into her suitcase."
+    },
+    {
+        "word": "CLOUDY",
+        "part_of_speech": "adjective",
+        "example": "It’s cloudy outside, so we might get some rain later."
+    },
+    {
+        "word": "COLDEST",
+        "part_of_speech": "adjective",
+        "example": "Antarctica is the coldest continent in the world"
+    },
+    {
+        "word": "COLLECT",
+        "part_of_speech": "verb",
+        "example": "Julia's favorite hobby is to collect dolls."
+    },
+    {
+        "word": "COMEDY",
+        "part_of_speech": "noun",
+        "example": "He loves watching comedy shows on TV after a long day."
+    },
+    {
+        "word": "COMMON",
+        "part_of_speech": "adjective",
+        "example": "It’s common to have tea in the afternoon in some countries."
+    },
+    {
+        "word": "COMPETITION",
+        "part_of_speech": "noun",
+        "example": "There's a skateboard competition tonight."
+    },
+    {
+        "word": "CONCENTRATE",
+        "part_of_speech": "verb",
+        "example": "To finish the exam, I had to really concentrate."
+    },
+    {
+        "word": "CONCERT",
+        "part_of_speech": "noun",
+        "example": "I went to a live concert last night."
+    },
+    {
+        "word": "CONCRETE",
+        "part_of_speech": "noun",
+        "example": "The building is made of concrete and glass."
+    },
+    {
+        "word": "CONDITION",
+        "part_of_speech": "noun",
+        "example": "The car was sold in excellent condition, even though it was used."
+    },
+    {
+        "word": "CONNECTION",
+        "part_of_speech": "noun",
+        "example": "There’s no connection on my phone right now."
+    },
+    {
+        "word": "CONSIDER",
+        "part_of_speech": "verb",
+        "example": "Before making a decision, you should consider all the facts."
+    },
+    {
+        "word": "CONTEST",
+        "part_of_speech": "noun",
+        "example": "I'm going to enter in a dance contest next week."
+    },
+    {
+        "word": "CONTRACT",
+        "part_of_speech": "noun",
+        "example": "The company signed a contract with the supplier for the next year."
+    },
+    {
+        "word": "CONVENIENCE",
+        "part_of_speech": "noun",
+        "example": "Gas stations usually have convenience stores."
+    },
+    {
+        "word": "COOKING",
+        "part_of_speech": "verb",
+        "example": "My grandma is cooking dinner."
+    },
+    {
+        "word": "COSTUME",
+        "part_of_speech": "noun",
+        "example": "The actors wore colorful costumes for the play."
+    },
+    {
+        "word": "COTTON",
+        "part_of_speech": "noun",
+        "example": "This shirt is made of soft cotton, perfect for summer."
+    },
+    {
+        "word": "COUNTABLE",
+        "part_of_speech": "adjective",
+        "example": "Sandwiches are countable food."
+    },
+    {
+        "word": "COUNTER",
+        "part_of_speech": "noun",
+        "example": "Could you put the groceries on the counter?"
+    },
+    {
+        "word": "COUNTRY",
+        "part_of_speech": "noun",
+        "example": "The country music festival attracted thousands of fans."
+    },
+    {
+        "word": "COUPLE",
+        "part_of_speech": "noun",
+        "example": "The old couple celebrated their 50th wedding anniversary."
+    },
+    {
+        "word": "CREATE",
+        "part_of_speech": "verb",
+        "example": "Artists create beautiful pieces of art."
+    },
+    {
+        "word": "CREATIVE",
+        "part_of_speech": "noun",
+        "example": "Artists need to be creative constantly."
+    },
+    {
+        "word": "CUPCAKE",
+        "part_of_speech": "noun",
+        "example": "A cupcake is a small cake."
+    },
+    {
+        "word": "CURLY",
+        "part_of_speech": "adjective",
+        "example": "She has a very beautiful curly hair."
+    },
+    {
+        "word": "DAMAGED",
+        "part_of_speech": "adjective",
+        "example": "The package was damaged during delivery, so I returned it."
+    },
+    {
+        "word": "DANGEROUS",
+        "part_of_speech": "adjective",
+        "example": "Crocodiles are among the most dangerous animals in the world."
+    },
+    {
+        "word": "DECORATIONS",
+        "part_of_speech": "noun",
+        "example": "During carnival, people put on colorful decorations."
+    },
+    {
+        "word": "DECREASE",
+        "part_of_speech": "verb",
+        "example": "This medicine will decrease your fever."
+    },
+    {
+        "word": "DELETE",
+        "part_of_speech": "verb",
+        "example": "Choose the photos you want to delete from your phone."
+    },
+    {
+        "word": "DELICIOUS",
+        "part_of_speech": "adjective",
+        "example": "This cake is so delicious and creamy."
+    },
+    {
+        "word": "DENTIST",
+        "part_of_speech": "noun",
+        "example": "I need to visit the dentist to get my teeth cleaned."
+    },
+    {
+        "word": "DEODORANT",
+        "part_of_speech": "noun",
+        "example": "Rexona is a famous deodorant brand."
+    },
+    {
+        "word": "DEPARTURE",
+        "part_of_speech": "noun",
+        "example": "The departure of our flight has been delayed."
+    },
+    {
+        "word": "DESIGN",
+        "part_of_speech": "noun",
+        "example": "This bag has an interesting design."
+    },
+    {
+        "word": "DESTROY",
+        "part_of_speech": "verb",
+        "example": "The fire will destroy everything in its path if not controlled."
+    },
+    {
+        "word": "DEVELOP",
+        "part_of_speech": "verb",
+        "example": "Plants need water to develop and grow."
+    },
+    {
+        "word": "DEVICE",
+        "part_of_speech": "noun",
+        "example": "A television is an electronic device."
+    },
+    {
+        "word": "DINOSAUR",
+        "part_of_speech": "noun",
+        "example": "The T-rex is a famous dinosaur."
+    },
+    {
+        "word": "DIRECTOR",
+        "part_of_speech": "noun",
+        "example": "The director made a movie about history."
+    },
+    {
+        "word": "DISASTER",
+        "part_of_speech": "noun",
+        "example": "Titanic was the first big naval disaster in the world."
+    },
+    {
+        "word": "DISCOVERY",
+        "part_of_speech": "noun",
+        "example": "Bilogists announced the discovery of a new species of plant."
+    },
+    {
+        "word": "DISHES",
+        "part_of_speech": "noun",
+        "example": "Please wash the dishes after dinner."
+    },
+    {
+        "word": "DOCUMENT",
+        "part_of_speech": "noun",
+        "example": "The lawyer asked me to sign the document."
+    },
+    {
+        "word": "DOCUMENTARY",
+        "part_of_speech": "noun",
+        "example": "The documentary about the ocean was both educational and inspiring."
+    },
+    {
+        "word": "DOING",
+        "part_of_speech": "verb",
+        "example": "What are you doing today?"
+    },
+    {
+        "word": "DOLPHIN",
+        "part_of_speech": "noun",
+        "example": "We can swim with a pink dolphin in Novo Airão."
+    },
+    {
+        "word": "DOWNLOAD",
+        "part_of_speech": "verb",
+        "example": "I download videos to watch them later."
+    },
+    {
+        "word": "DRINK",
+        "part_of_speech": "noun",
+        "example": "I’ll bring some cold drinks for the picnic."
+    },
+    {
+        "word": "EARACHE",
+        "part_of_speech": "noun",
+        "example": "The music was too loud. I think I have an earache."
+    },
+    {
+        "word": "EARRINGS",
+        "part_of_speech": "noun",
+        "example": "She lost one of her silver earrings."
+    },
+    {
+        "word": "EASILY",
+        "part_of_speech": "adverb",
+        "example": "He solved that problem easily."
+    },
+    {
+        "word": "EASYGOING",
+        "part_of_speech": "adjective",
+        "example": "Helena is so relaxed and easygoing!"
+    },
+    {
+        "word": "ECONOMICS",
+        "part_of_speech": "noun",
+        "example": "Economics teaches us about the production, distribution, and consumption of goods."
+    },
+    {
+        "word": "EDUCATION",
+        "part_of_speech": "noun",
+        "example": "Education is the key to improving one’s future."
+    },
+    {
+        "word": "EFFECT",
+        "part_of_speech": "noun",
+        "example": "The new policy had a positive effect on employee motivation."
+    },
+    {
+        "word": "ELECTRONIC",
+        "part_of_speech": "adjective",
+        "example": "Alok is a DJ. He plays electronic music."
+    },
+    {
+        "word": "EMBASSY",
+        "part_of_speech": "noun",
+        "example": "You need a visa to enter the embassy for an appointment."
+    },
+    {
+        "word": "ENGINEER",
+        "part_of_speech": "noun",
+        "example": "The engineer is working on a new bridge project."
+    },
+    {
+        "word": "ENORMOUS",
+        "part_of_speech": "adjective",
+        "example": "The elephant is an enormous animal, weighing several tons."
+    },
+    {
+        "word": "EVENING",
+        "part_of_speech": "noun",
+        "example": "My family had dinner in the evening."
+    },
+    {
+        "word": "EVERYWHERE",
+        "part_of_speech": "adverb",
+        "example": "This song plays everywhere."
+    },
+    {
+        "word": "EXCITING",
+        "part_of_speech": "adjective",
+        "example": "My job is so exciting. I travel to many exotic places."
+    },
+    {
+        "word": "EXERCISE",
+        "part_of_speech": "verb",
+        "example": "I exercise three days a week."
+    },
+    {
+        "word": "EXPAND",
+        "part_of_speech": "verb",
+        "example": "With work, we can expand our markets"
+    },
+    {
+        "word": "EXPLORATION",
+        "part_of_speech": "noun",
+        "example": "A diver engaged the exploration of the sea."
+    },
+    {
+        "word": "EXTREME",
+        "part_of_speech": "adjective",
+        "example": "The Amazon Rain Forest is an extreme environment."
+    },
+    {
+        "word": "FASCINATED",
+        "part_of_speech": "adjective",
+        "example": "The kids were fascinated by the magician’s tricks."
+    },
+    {
+        "word": "FASHIONABLE",
+        "part_of_speech": "adjective",
+        "example": "That dress is so fashionable."
+    },
+    {
+        "word": "FESTIVAL",
+        "part_of_speech": "noun",
+        "example": "The city hosts a famous music festival every summer."
+    },
+    {
+        "word": "FICTION",
+        "part_of_speech": "noun",
+        "example": "Fiction books let you escape into a world of imagination."
+    },
+    {
+        "word": "FIELD",
+        "part_of_speech": "noun",
+        "example": "The soccer field was muddy after the rain."
+    },
+    {
+        "word": "FORGET",
+        "part_of_speech": "verb",
+        "example": "Don’t forget to bring your ID to the airport."
+    },
+    {
+        "word": "FOSSIL",
+        "part_of_speech": "noun",
+        "example": "This animal fossil might be a million years old."
+    },
+    {
+        "word": "FRAGILE",
+        "part_of_speech": "adjective",
+        "example": "The vase is very fragile, so be careful when handling it."
+    },
+    {
+        "word": "FREEZING",
+        "part_of_speech": "adjective",
+        "example": "The temperature is so freezing that the lake is covered in ice."
+    },
+    {
+        "word": "FRIDAY",
+        "part_of_speech": "noun",
+        "example": "I study English on Friday."
+    },
+    {
+        "word": "FRIENDLIER",
+        "part_of_speech": "adjective",
+        "example": "Marcos is friendlier than José."
+    },
+    {
+        "word": "GENEROUS",
+        "part_of_speech": "adjective",
+        "example": "He was very generous and donated money to charity."
+    },
+    {
+        "word": "GLASSES",
+        "part_of_speech": "noun",
+        "example": "People with sight problems wear glasses to see better."
+    },
+    {
+        "word": "GLOVES",
+        "part_of_speech": "noun",
+        "example": "It’s cold, so I’ll wear gloves outside."
+    },
+    {
+        "word": "GRACEFULLY",
+        "part_of_speech": "adverb",
+        "example": "She danced gracefully."
+    },
+    {
+        "word": "GRADUATE",
+        "part_of_speech": "noun",
+        "example": "Mariana will graduate from university next month."
+    },
+    {
+        "word": "GRAFFITI",
+        "part_of_speech": "noun",
+        "example": "The walls were covered in colorful graffiti."
+    },
+    {
+        "word": "GRANDSON",
+        "part_of_speech": "noun",
+        "example": "His grandson loves playing soccer with him."
+    },
+    {
+        "word": "GRAPHICS",
+        "part_of_speech": "noun",
+        "example": "This game has very realistic graphics."
+    },
+    {
+        "word": "GRATEFUL",
+        "part_of_speech": "adjective",
+        "example": "I am so grateful for all the help you’ve given me."
+    },
+    {
+        "word": "GRILLED",
+        "part_of_speech": "adjective",
+        "example": "He cooked a grilled chicken sandwich."
+    },
+    {
+        "word": "GROCERY",
+        "part_of_speech": "noun",
+        "example": "I go to the grocery store every weekend to buy fresh vegetables."
+    },
+    {
+        "word": "GUIDEBOOK",
+        "part_of_speech": "noun",
+        "example": "The guidebook has detailed maps of all the tourist attractions in the city."
+    },
+    {
+        "word": "GUITAR",
+        "part_of_speech": "noun",
+        "example": "Anthony plays the guitar in the band."
+    },
+    {
+        "word": "HAIRBRUSH",
+        "part_of_speech": "noun",
+        "example": "I need my hairbrush to fix my messy hair."
+    },
+    {
+        "word": "HARDLY",
+        "part_of_speech": "adverb",
+        "example": "I hardly travel abroad."
+    },
+    {
+        "word": "HEADACHE",
+        "part_of_speech": "noun",
+        "example": "I need some aspirin for my headache."
+    },
+    {
+        "word": "HEADPHONES",
+        "part_of_speech": "noun",
+        "example": "She listens to music with her headphones every day."
+    },
+    {
+        "word": "HEAVY",
+        "part_of_speech": "adjective",
+        "example": "This suitcase is too heavy for me to carry alone."
+    },
+    {
+        "word": "HEIGHT",
+        "part_of_speech": "noun",
+        "example": "He's not short or tall. He's about average height."
+    },
+    {
+        "word": "HELPFUL",
+        "part_of_speech": "adjective",
+        "example": "Carlos is always helpful when his mother needs help with housework."
+    },
+    {
+        "word": "HIGHEST",
+        "part_of_speech": "adjective",
+        "example": "Mount Everest is the highest mountain in the world."
+    },
+    {
+        "word": "HIGHWAY",
+        "part_of_speech": "noun",
+        "example": "We drove along the highway to get to the next town."
+    },
+    {
+        "word": "HISTORICAL",
+        "part_of_speech": "adjective",
+        "example": "I love reading historical novels."
+    },
+    {
+        "word": "HONEST",
+        "part_of_speech": "adjective",
+        "example": "It’s important to be honest when answering questions."
+    },
+    {
+        "word": "HORROR",
+        "part_of_speech": "noun",
+        "example": "The horror movie was so scary, I couldn’t sleep that night."
+    },
+    {
+        "word": "HOSPITAL",
+        "part_of_speech": "noun",
+        "example": "Santa Júlia is a hospital in Manaus."
+    },
+    {
+        "word": "HOUSEWORK",
+        "part_of_speech": "noun",
+        "example": "I do my housework on weekends."
+    },
+    {
+        "word": "INCREASE",
+        "part_of_speech": "verb",
+        "example": "I want to increase my vocabulary."
+    },
+    {
+        "word": "INDOOR",
+        "part_of_speech": "adjective",
+        "example": "Futsal is an indoor sport."
+    },
+    {
+        "word": "INFORMATION",
+        "part_of_speech": "noun",
+        "example": "I need some information about train schedules."
+    },
+    {
+        "word": "INSECT",
+        "part_of_speech": "noun",
+        "example": "A beetle is a type of insect."
+    },
+    {
+        "word": "INSTRUMENT",
+        "part_of_speech": "noun",
+        "example": "Piano is a difficult instrument to learn."
+    },
+    {
+        "word": "INTELLIGENT",
+        "part_of_speech": "adjective",
+        "example": "The intelligent student solved the math problem quickly."
+    },
+    {
+        "word": "INTERESTING",
+        "part_of_speech": "adjective",
+        "example": "Cats are more interesting than fish."
+    },
+    {
+        "word": "INVOLVE",
+        "part_of_speech": "verb",
+        "example": "The project will involve many people from different countries."
+    },
+    {
+        "word": "JUMPING",
+        "part_of_speech": "verb",
+        "example": "He is jumping over a high fence in the competition."
+    },
+    {
+        "word": "JUPITER",
+        "part_of_speech": "noun",
+        "example": "Jupiter is the fifth planet in the solar system."
+    },
+    {
+        "word": "KARATE",
+        "part_of_speech": "noun",
+        "example": "Karate is a Japanese martial art."
+    },
+    {
+        "word": "KEYBOARD",
+        "part_of_speech": "noun",
+        "example": "The keyboard on my computer is broken."
+    },
+    {
+        "word": "LANDING",
+        "part_of_speech": "noun",
+        "example": "The pilot was forced to make an emegency landing."
+    },
+    {
+        "word": "LARGEST",
+        "part_of_speech": "adjective",
+        "example": "Brazil is the largest country in South America."
+    },
+    {
+        "word": "LAUGHING",
+        "part_of_speech": "verb",
+        "example": "The movie was so funny we couldn't stop laughing."
+    },
+    {
+        "word": "LAWYER",
+        "part_of_speech": "noun",
+        "example": "A lawyer helped him understand the legal documents."
+    },
+    {
+        "word": "LEAST",
+        "part_of_speech": "adjective",
+        "example": "Rap is my least favorite type of music."
+    },
+    {
+        "word": "LEATHER",
+        "part_of_speech": "noun",
+        "example": "She wore a leather jacket to stay warm during the cold evening."
+    },
+    {
+        "word": "LETTERS",
+        "part_of_speech": "noun",
+        "example": "In the past, people used to send letters to communicate with each other."
+    },
+    {
+        "word": "LIBRARY",
+        "part_of_speech": "noun",
+        "example": "ICBEU has a library with many English books."
+    },
+    {
+        "word": "LIFELIKE",
+        "part_of_speech": "adjective",
+        "example": "The museum has a lifelike statue of the queen."
+    },
+    {
+        "word": "LIFTING",
+        "part_of_speech": "verb",
+        "example": "She is lifting weights to get stronger."
+    },
+    {
+        "word": "LISTENING",
+        "part_of_speech": "verb",
+        "example": "The girls are listening to the songs of their favorite singer."
+    },
+    {
+        "word": "LOCATE",
+        "part_of_speech": "verb",
+        "example": "Can you help me locate my lost keys?"
+    },
+    {
+        "word": "LOOKING",
+        "part_of_speech": "verb",
+        "example": "The dog is looking out the window."
+    },
+    {
+        "word": "LOUDLY",
+        "part_of_speech": "adverb",
+        "example": "He played the music loudly."
+    },
+    {
+        "word": "LOWEST",
+        "part_of_speech": "adjective",
+        "example": "The temperature in the desert is lowest during the night."
+    },
+    {
+        "word": "MACHINE",
+        "part_of_speech": "noun",
+        "example": "Put the dirty clothes in the washing machine, please."
+    },
+    {
+        "word": "MAGNIFICENT",
+        "part_of_speech": "adjective",
+        "example": "The view from the mountain was magnificent!"
+    },
+    {
+        "word": "MAMMOTH",
+        "part_of_speech": "noun",
+        "example": "A mammoth is a large extinct elephant."
+    },
+    {
+        "word": "MANAGER",
+        "part_of_speech": "noun",
+        "example": "The manager is responsible for organizing the team meeting."
+    },
+    {
+        "word": "MARATHON",
+        "part_of_speech": "noun",
+        "example": "Running a marathon requires a lot of training and endurance."
+    },
+    {
+        "word": "MATTER",
+        "part_of_speech": "noun",
+        "example": "Are you ok? What's the matter?"
+    },
+    {
+        "word": "MECHANIC",
+        "part_of_speech": "noun",
+        "example": "The mechanic repaired the car’s engine in just two hours."
+    },
+    {
+        "word": "MEDICINE",
+        "part_of_speech": "noun",
+        "example": "He wants to study medicine to help people stay healthy."
+    },
+    {
+        "word": "MERCURY",
+        "part_of_speech": "noun",
+        "example": "Mercury is the planet nearest the sun."
+    },
+    {
+        "word": "MESSAGES",
+        "part_of_speech": "noun",
+        "example": "I check my whatsapp messages after class."
+    },
+    {
+        "word": "MISERABLE",
+        "part_of_speech": "adjective",
+        "example": "He felt miserable after losing his wallet."
+    },
+    {
+        "word": "MODERN",
+        "part_of_speech": "noun",
+        "example": "Smartphones are a modern invention."
+    },
+    {
+        "word": "MONDAY",
+        "part_of_speech": "noun",
+        "example": "I start school on Monday."
+    },
+    {
+        "word": "MONUMENT",
+        "part_of_speech": "noun",
+        "example": "The city built a monument to honor the national hero."
+    },
+    {
+        "word": "MOUTHWASH",
+        "part_of_speech": "noun",
+        "example": "It's good to brush your teeth and use mouthwash after."
+    },
+    {
+        "word": "MUSEUM",
+        "part_of_speech": "noun",
+        "example": "I saw a great exposition at the museum."
+    },
+    {
+        "word": "MUSICAL",
+        "part_of_speech": "noun",
+        "example": "She loves musical movies with lots of dancing and singing."
+    },
+    {
+        "word": "MUSICIAN",
+        "part_of_speech": "noun",
+        "example": "Carlos is a talented musician. He is a pianist."
+    },
+    {
+        "word": "MUSTACHE",
+        "part_of_speech": "noun",
+        "example": "He wears a beautiful mustache and beard."
+    },
+    {
+        "word": "NATURAL",
+        "part_of_speech": "adjective",
+        "example": "I prefer natural ingredients in my skincare products."
+    },
+    {
+        "word": "NECKLACE",
+        "part_of_speech": "noun",
+        "example": "Her gold necklace sparkled in the sunlight."
+    },
+    {
+        "word": "NEIGHBORS",
+        "part_of_speech": "noun",
+        "example": "Our neighbors invited us to their barbecue."
+    },
+    {
+        "word": "NEPTUNE",
+        "part_of_speech": "noun",
+        "example": "Neptune the planet eighth in order from the sun."
+    },
+    {
+        "word": "NERVOUS",
+        "part_of_speech": "adjective",
+        "example": "I feel nervous before speaking in front of a large group."
+    },
+    {
+        "word": "NOODLES",
+        "part_of_speech": "noun",
+        "example": "I like to eat noodles for lunch."
+    },
+    {
+        "word": "NOWHERE",
+        "part_of_speech": "adverb",
+        "example": "After walking for hours, we ended up in nowhere."
+    },
+    {
+        "word": "OLYMPICS",
+        "part_of_speech": "noun",
+        "example": "Paris hosted the Summer Olympics in 2024."
+    },
+    {
+        "word": "ONLINE",
+        "part_of_speech": "noun",
+        "example": "I chat online with my boyfriend everyday."
+    },
+    {
+        "word": "OPPORTUNITY",
+        "part_of_speech": "noun",
+        "example": "He was given the opportunity to travel abroad for work."
+    },
+    {
+        "word": "OUTDATED",
+        "part_of_speech": "adjective",
+        "example": "That old phone is completely outdated and doesn’t work well."
+    },
+    {
+        "word": "OUTFIT",
+        "part_of_speech": "noun",
+        "example": "My outfit today ia a pair of pants and a T-shirt."
+    },
+    {
+        "word": "OUTGOING",
+        "part_of_speech": "adjective",
+        "example": "Ana is a very friendly and outgoing person."
+    },
+    {
+        "word": "OUTLET",
+        "part_of_speech": "noun",
+        "example": "We plugged the charger into the outlet on the wall."
+    },
+    {
+        "word": "PACKAGING",
+        "part_of_speech": "noun",
+        "example": "The packaging of the product is made from recycled materials."
+    },
+    {
+        "word": "PARAMEDIC",
+        "part_of_speech": "noun",
+        "example": "The paramedic arrived quickly and treated the injured person."
+    },
+    {
+        "word": "PARASAILING",
+        "part_of_speech": "verb",
+        "example": "They were parasailing while they were on vacation."
+    },
+    {
+        "word": "PASSENGER",
+        "part_of_speech": "noun",
+        "example": "The passenger on the bus asked the driver for directions."
+    },
+    {
+        "word": "PASSWORD",
+        "part_of_speech": "noun",
+        "example": "I always memorize my email password."
+    },
+    {
+        "word": "PATIENT",
+        "part_of_speech": "noun",
+        "example": "The hospital got a new patient today."
+    },
+    {
+        "word": "PATIENTLY",
+        "part_of_speech": "adverb",
+        "example": "He patiently waited for his turn."
+    },
+    {
+        "word": "PEANUT",
+        "part_of_speech": "noun",
+        "example": "She’s allergic to peanut butter."
+    },
+    {
+        "word": "PEOPLE",
+        "part_of_speech": "noun",
+        "example": "I talked to a lot of people today."
+    },
+    {
+        "word": "PERFECT",
+        "part_of_speech": "adjective",
+        "example": "The weather is perfect for a picnic today."
+    },
+    {
+        "word": "PERFORM",
+        "part_of_speech": "verb",
+        "example": "My friend is a singer. She likes to perform in front of many people."
+    },
+    {
+        "word": "PERFUME",
+        "part_of_speech": "noun",
+        "example": "She bought a bottle of floral perfume as a gift for her friend."
+    },
+    {
+        "word": "PERSONALITY",
+        "part_of_speech": "noun",
+        "example": "Carol has a strong personality."
+    },
+    {
+        "word": "PIERCED",
+        "part_of_speech": "adjective",
+        "example": "He has pierced ears and wears small earrings."
+    },
+    {
+        "word": "PLASTIC",
+        "part_of_speech": "noun",
+        "example": "Bottles are made of plastic."
+    },
+    {
+        "word": "PLATES",
+        "part_of_speech": "noun",
+        "example": "I usually washe the plates after dinner."
+    },
+    {
+        "word": "PLAYER",
+        "part_of_speech": "noun",
+        "example": "The basketball player is running with the ball."
+    },
+    {
+        "word": "PLAYFUL",
+        "part_of_speech": "adjective",
+        "example": "Dolphins are playful animals, they like to swim and smile a lot."
+    },
+    {
+        "word": "PLAYFULLY",
+        "part_of_speech": "adverb",
+        "example": "The children laughed playfully."
+    },
+    {
+        "word": "POISONOUS",
+        "part_of_speech": "adjective",
+        "example": "Be careful! This plant may be poisonous!"
+    },
+    {
+        "word": "POLLUTION",
+        "part_of_speech": "noun",
+        "example": "Pollution in the city has made the air hard to breathe."
+    },
+    {
+        "word": "POLYESTER",
+        "part_of_speech": "noun",
+        "example": "The bag is made from polyester and is very durable."
+    },
+    {
+        "word": "POPULAR",
+        "part_of_speech": "adjective",
+        "example": "Samba is a popular type of music in Brazil."
+    },
+    {
+        "word": "PRACTICE",
+        "part_of_speech": "verb",
+        "example": "Don't miss your guitar practice again!"
+    },
+    {
+        "word": "PRESERVED",
+        "part_of_speech": "verb",
+        "example": "That old book looks good. It's well preserved."
+    },
+    {
+        "word": "PRETTY",
+        "part_of_speech": "adjective",
+        "example": "Amanda is a pretty girl."
+    },
+    {
+        "word": "PROBLEM",
+        "part_of_speech": "noun",
+        "example": "Solving this problem took longer than I expected."
+    },
+    {
+        "word": "PRODUCT",
+        "part_of_speech": "noun",
+        "example": "If you don't buy this product, you won't find another with the same price."
+    },
+    {
+        "word": "PROFESSION",
+        "part_of_speech": "noun",
+        "example": "The lawyer explained that being a profession requires years of study and experience."
+    },
+    {
+        "word": "PROGRESS",
+        "part_of_speech": "noun",
+        "example": "We’ve made a lot of progress in our project so far."
+    },
+    {
+        "word": "PROJECT",
+        "part_of_speech": "noun",
+        "example": "The team is working hard on this new project."
+    },
+    {
+        "word": "PUSHING",
+        "part_of_speech": "verb",
+        "example": "He was pushing the heavy cart up the hill."
+    },
+    {
+        "word": "PYRAMID",
+        "part_of_speech": "noun",
+        "example": "The Great Pyramid of Giza is in Egypt."
+    },
+    {
+        "word": "QUALITY",
+        "part_of_speech": "noun",
+        "example": "These are good quality shoes."
+    },
+    {
+        "word": "QUICKLY",
+        "part_of_speech": "adverb",
+        "example": "We finished the activity quickly."
+    },
+    {
+        "word": "READING",
+        "part_of_speech": "verb",
+        "example": "I'm reading a romantic novel."
+    },
+    {
+        "word": "RECEIPT",
+        "part_of_speech": "noun",
+        "example": "Don’t forget to take the receipt from the store."
+    },
+    {
+        "word": "RECENTLY",
+        "part_of_speech": "adverb",
+        "example": "I recently had a foot surgery."
+    },
+    {
+        "word": "RECEPTIONIST",
+        "part_of_speech": "noun",
+        "example": "The receptionist greeted us with a warm smile when we entered the office."
+    },
+    {
+        "word": "RECORD",
+        "part_of_speech": "noun",
+        "example": "People used to listen to music with a vinyl record player."
+    },
+    {
+        "word": "RECYCLE",
+        "part_of_speech": "verb",
+        "example": "Recycle your bottles."
+    },
+    {
+        "word": "REDUCE",
+        "part_of_speech": "verb",
+        "example": "I think we should reduce plastics in our daily lives."
+    },
+    {
+        "word": "REFRIGERATOR",
+        "part_of_speech": "noun",
+        "example": "There's ice cream in the refrigerator."
+    },
+    {
+        "word": "REGGAE",
+        "part_of_speech": "noun",
+        "example": "We listened to reggae music during our vacation by the beach."
+    },
+    {
+        "word": "RELIABLE",
+        "part_of_speech": "adjective",
+        "example": "My friend is very reliable and always keeps her promises."
+    },
+    {
+        "word": "REMIND",
+        "part_of_speech": "verb",
+        "example": "Can you remind me to call the doctor tomorrow?"
+    },
+    {
+        "word": "RESEARCH",
+        "part_of_speech": "verb",
+        "example": "I'm working on a Malaria research."
+    },
+    {
+        "word": "RESERVATION",
+        "part_of_speech": "noun",
+        "example": "Don’t forget to make a reservation for dinner tonight."
+    },
+    {
+        "word": "RESTAURANT",
+        "part_of_speech": "noun",
+        "example": "Picanha Mania is my favorite barbecue restaurant."
+    },
+    {
+        "word": "RESULT",
+        "part_of_speech": "noun",
+        "example": "The result of the experiment was not what we expected."
+    },
+    {
+        "word": "RETIREMENT",
+        "part_of_speech": "noun",
+        "example": "After years of hard work, she looks forward to retirement."
+    },
+    {
+        "word": "RETURN",
+        "part_of_speech": "verb",
+        "example": "Please return the book to the library when you’re done."
+    },
+    {
+        "word": "REUSABLE",
+        "part_of_speech": "adjective",
+        "example": "This soda bottle is reusable."
+    },
+    {
+        "word": "REWARDING",
+        "part_of_speech": "adjective",
+        "example": "Helping people in need can be rewarding."
+    },
+    {
+        "word": "ROASTED",
+        "part_of_speech": "adjective",
+        "example": "We had roasted chicken for dinner, and it was delicious."
+    },
+    {
+        "word": "ROMANTIC",
+        "part_of_speech": "noun",
+        "example": "The romantic comedy made everyone smile and feel happy."
+    },
+    {
+        "word": "ROOMMATES",
+        "part_of_speech": "noun",
+        "example": "My roommates and I share the rent every month."
+    },
+    {
+        "word": "RUNNING",
+        "part_of_speech": "verb",
+        "example": "Anna is running a marathon."
+    },
+    {
+        "word": "SAFELY",
+        "part_of_speech": "adverb",
+        "example": "Always wear your seatbelt to travel safely in a car."
+    },
+    {
+        "word": "SALESPERSON",
+        "part_of_speech": "noun",
+        "example": "When Maria needs help at the store, she calls a salesperson."
+    },
+    {
+        "word": "SATURN",
+        "part_of_speech": "noun",
+        "example": "Saturn is the sixth planet in order from the sun."
+    },
+    {
+        "word": "SCIENTIST",
+        "part_of_speech": "noun",
+        "example": "My friend is working as a scientist at the university."
+    },
+    {
+        "word": "SCULPTURE",
+        "part_of_speech": "noun",
+        "example": "The museum has a beautiful sculpture of a horse."
+    },
+    {
+        "word": "SEARCH",
+        "part_of_speech": "verb",
+        "example": "I used a flashlight to search for my keys in the dark."
+    },
+    {
+        "word": "SELFISH",
+        "part_of_speech": "adjective",
+        "example": "Don’t be selfish—share the cookies with your friends."
+    },
+    {
+        "word": "SHAMPOO",
+        "part_of_speech": "noun",
+        "example": "I wash my hair with a lot of shampoo."
+    },
+    {
+        "word": "SHOCKED",
+        "part_of_speech": "adjective",
+        "example": "He was shocked by the surprise party his friends threw."
+    },
+    {
+        "word": "SHRIMP",
+        "part_of_speech": "noun",
+        "example": "When I go to the beach, I usually order fried shrimp."
+    },
+    {
+        "word": "SHRINK",
+        "part_of_speech": "verb",
+        "example": "That material's going to shrink if it's washed."
+    },
+    {
+        "word": "SIDEWALK",
+        "part_of_speech": "noun",
+        "example": "The sidewalk was crowded with people during the festival."
+    },
+    {
+        "word": "SINGLE",
+        "part_of_speech": "adjective",
+        "example": "He’s still single, but he hopes to find someone special soon."
+    },
+    {
+        "word": "SITUATION",
+        "part_of_speech": "noun",
+        "example": "In this situation, it’s important to remain calm and think carefully."
+    },
+    {
+        "word": "SKELETON",
+        "part_of_speech": "noun",
+        "example": "The crocodile skeleton is huge!"
+    },
+    {
+        "word": "SKYDIVING",
+        "part_of_speech": "verb",
+        "example": "Skydiving is a dangerous sport."
+    },
+    {
+        "word": "SLOTH",
+        "part_of_speech": "noun",
+        "example": "A sloth is an animal that moves in a slow way."
+    },
+    {
+        "word": "SLOWLY",
+        "part_of_speech": "adverb",
+        "example": "The traffic today was moving slowly."
+    },
+    {
+        "word": "SMALLEST",
+        "part_of_speech": "adjective",
+        "example": "Vatican City is the smallest city in the world."
+    },
+    {
+        "word": "SNEAKERS",
+        "part_of_speech": "noun",
+        "example": "He bought new sneakers to wear for the basketball game."
+    },
+    {
+        "word": "SOCIABLE",
+        "part_of_speech": "adjective",
+        "example": "She is so sociable that she makes friends wherever she goes."
+    },
+    {
+        "word": "SOLUTION",
+        "part_of_speech": "noun",
+        "example": "Authorities need to find a solution for urban problems."
+    },
+    {
+        "word": "SOUVENIR",
+        "part_of_speech": "noun",
+        "example": "I bought a souvenir to remind me of my trip to Paris."
+    },
+    {
+        "word": "SPEAKERS",
+        "part_of_speech": "noun",
+        "example": "Can you turn down the volume of your speakers?"
+    },
+    {
+        "word": "SPECIAL",
+        "part_of_speech": "adjective",
+        "example": "This is a special occasion, so we should dress nicely."
+    },
+    {
+        "word": "SPECIALIST",
+        "part_of_speech": "noun",
+        "example": "A heart specialist performed the surgery successfully."
+    },
+    {
+        "word": "SPEND",
+        "part_of_speech": "verb",
+        "example": "Don’t spend all your money on things you don’t need."
+    },
+    {
+        "word": "SPENDING",
+        "part_of_speech": "verb",
+        "example": "I need to track my spending this month to save money."
+    },
+    {
+        "word": "SPICY",
+        "part_of_speech": "adjective",
+        "example": "This curry is too spicy for me; I need some water!"
+    },
+    {
+        "word": "SPIKY",
+        "part_of_speech": "adjective",
+        "example": "He has a unique spiky hair that looks like anime"
+    },
+    {
+        "word": "STADIUM",
+        "part_of_speech": "noun",
+        "example": "We went to the stadium to watch the football match."
+    },
+    {
+        "word": "STAND",
+        "part_of_speech": "verb",
+        "example": "Please stand in line while waiting for your turn."
+    },
+    {
+        "word": "STARVING",
+        "part_of_speech": "adjective",
+        "example": "The children were starving after playing all afternoon without lunch."
+    },
+    {
+        "word": "STATION",
+        "part_of_speech": "noun",
+        "example": "We arrived at the train station just in time to catch our train."
+    },
+    {
+        "word": "STOMACHACHE",
+        "part_of_speech": "noun",
+        "example": "He isn´t feeling well, he has a stomachache, he ate something suspicious"
+    },
+    {
+        "word": "STORAGE",
+        "part_of_speech": "noun",
+        "example": "I need more storage space on my phone for my wedding photos."
+    },
+    {
+        "word": "STRAIGHT",
+        "part_of_speech": "adjective",
+        "example": "She doesn't have curly hair. Her hair is straight."
+    },
+    {
+        "word": "STRANGE",
+        "part_of_speech": "adjective",
+        "example": "This food looks strange."
+    },
+    {
+        "word": "STRAWBERRY",
+        "part_of_speech": "noun",
+        "example": "I love strawberry cake!"
+    },
+    {
+        "word": "STRETCH",
+        "part_of_speech": "verb",
+        "example": "It’s important to stretch your arms and legs before exercising."
+    },
+    {
+        "word": "STRONG",
+        "part_of_speech": "adjective",
+        "example": "The strong winds knocked over several trees during the storm."
+    },
+    {
+        "word": "STUDYING",
+        "part_of_speech": "verb",
+        "example": "I'm studying to enter college."
+    },
+    {
+        "word": "SUCCESS",
+        "part_of_speech": "noun",
+        "example": "The business’s success is due to hard work and dedication."
+    },
+    {
+        "word": "SUGGEST",
+        "part_of_speech": "verb",
+        "example": "I suggest you try to call another day."
+    },
+    {
+        "word": "SUITCASE",
+        "part_of_speech": "noun",
+        "example": "My suitcase was so heavy that I needed help carrying it."
+    },
+    {
+        "word": "SUMMER",
+        "part_of_speech": "noun",
+        "example": "The weather is usually hot in summer."
+    },
+    {
+        "word": "SUNGLASSES",
+        "part_of_speech": "noun",
+        "example": "She put on her sunglasses to protect her eyes from the bright sun."
+    },
+    {
+        "word": "SUPERMARKET",
+        "part_of_speech": "noun",
+        "example": "Carrefour is a big supermarket."
+    },
+    {
+        "word": "SURFING",
+        "part_of_speech": "verb",
+        "example": "We can't go surfing today because it's stormy today."
+    },
+    {
+        "word": "SURPRISED",
+        "part_of_speech": "adjective",
+        "example": "We were surprised to see her after so many years."
+    },
+    {
+        "word": "SWEATER",
+        "part_of_speech": "noun",
+        "example": "On Christmas, John usually wears a custom sweater."
+    },
+    {
+        "word": "SWEATSHIRT",
+        "part_of_speech": "noun",
+        "example": "I'm wearing a sweatshirt today because it's cold."
+    },
+    {
+        "word": "TALLER",
+        "part_of_speech": "adjective",
+        "example": "My brother is taller than me."
+    },
+    {
+        "word": "TALLEST",
+        "part_of_speech": "adjective",
+        "example": "The tallest tree in the world is in The United States."
+    },
+    {
+        "word": "TECHNOLOGY",
+        "part_of_speech": "noun",
+        "example": "Modern technology is amazing."
+    },
+    {
+        "word": "TERRIBLE",
+        "part_of_speech": "adjective",
+        "example": "The movie was terrible. I hated it."
+    },
+    {
+        "word": "TEXTBOOK",
+        "part_of_speech": "noun",
+        "example": "My textbook is full of notes and highlights."
+    },
+    {
+        "word": "THERAPIST",
+        "part_of_speech": "noun",
+        "example": "The therapist helped her overcome her anxiety through regular sessions."
+    },
+    {
+        "word": "THINK",
+        "part_of_speech": "verb",
+        "example": "I need some time to think about your proposal."
+    },
+    {
+        "word": "THRILLER",
+        "part_of_speech": "noun",
+        "example": "The thriller kept us on the edge of our seats the entire time."
+    },
+    {
+        "word": "THROAT",
+        "part_of_speech": "noun",
+        "example": "I can't talk today because I have a sore throat."
+    },
+    {
+        "word": "THROW",
+        "part_of_speech": "verb",
+        "example": "The pitcher will throw the ball as hard as he can."
+    },
+    {
+        "word": "THURSDAY",
+        "part_of_speech": "noun",
+        "example": "This year, my birthday is on a Thursday."
+    },
+    {
+        "word": "TISSUES",
+        "part_of_speech": "noun",
+        "example": "Could you pass me some tissues, please?"
+    },
+    {
+        "word": "TOMATOES",
+        "part_of_speech": "noun",
+        "example": "Some people don't like tomatoes on salad."
+    },
+    {
+        "word": "TOMORROW",
+        "part_of_speech": "adverb",
+        "example": "Tomorrow is my brother's birthday."
+    },
+    {
+        "word": "TOOTHACHE",
+        "part_of_speech": "noun",
+        "example": "I went to the dentist because of a toothache."
+    },
+    {
+        "word": "TOURIST",
+        "part_of_speech": "noun",
+        "example": "The tourist took photos of the Eiffel Tower."
+    },
+    {
+        "word": "TRAFFIC",
+        "part_of_speech": "noun",
+        "example": "There was so much traffic that we were late for the meeting."
+    },
+    {
+        "word": "TRANSPORT",
+        "part_of_speech": "verb",
+        "example": "We rely on transport systems like buses and trains to get around the city."
+    },
+    {
+        "word": "TROUBLE",
+        "part_of_speech": "noun",
+        "example": "He got into trouble for skipping class."
+    },
+    {
+        "word": "TUNNEL",
+        "part_of_speech": "noun",
+        "example": "The car entered the tunnel that went through the mountain."
+    },
+    {
+        "word": "UMBRELLA",
+        "part_of_speech": "noun",
+        "example": "It started raining, so I opened my umbrella."
+    },
+    {
+        "word": "UNLOCK",
+        "part_of_speech": "verb",
+        "example": "Use your face id to unlock the phone."
+    },
+    {
+        "word": "UPLOAD",
+        "part_of_speech": "verb",
+        "example": "Can you upload the photos from your trip to the shared folder?"
+    },
+    {
+        "word": "USELESS",
+        "part_of_speech": "adjective",
+        "example": "This broken camera is completely useless now."
+    },
+    {
+        "word": "VENUS",
+        "part_of_speech": "noun",
+        "example": "Venus is the second planet in order from the sun."
+    },
+    {
+        "word": "VITAMIN",
+        "part_of_speech": "noun",
+        "example": "Did you take your vitamins today?"
+    },
+    {
+        "word": "VOLUNTEER",
+        "part_of_speech": "verb",
+        "example": "Many people who study Medicine volunteer in Africa."
+    },
+    {
+        "word": "WALKING",
+        "part_of_speech": "verb",
+        "example": "Today I'm walking to school."
+    },
+    {
+        "word": "WASTE",
+        "part_of_speech": "verb",
+        "example": "Leaving the lights on all day is a big waste of electricity."
+    },
+    {
+        "word": "WATCHING",
+        "part_of_speech": "verb",
+        "example": "We were watching a movie when the phone rang."
+    },
+    {
+        "word": "WATERFALL",
+        "part_of_speech": "noun",
+        "example": "The waterfall was breathtaking and surrounded by lush greenery."
+    },
+    {
+        "word": "WATERPROOF",
+        "part_of_speech": "adjective",
+        "example": "The jacket is waterproof, so it will keep you dry in the rain."
+    },
+    {
+        "word": "WEARING",
+        "part_of_speech": "verb",
+        "example": "The students are not wearing their uniforms today."
+    },
+    {
+        "word": "WEDNESDAY",
+        "part_of_speech": "noun",
+        "example": "The restaurant is closed on Wednesday."
+    },
+    {
+        "word": "WEEKDAYS",
+        "part_of_speech": "noun",
+        "example": "I usually go to bed at 10 p.m on weekdays."
+    },
+    {
+        "word": "WEEKEND",
+        "part_of_speech": "noun",
+        "example": "People usually relax on the weekend."
+    },
+    {
+        "word": "WELCOME",
+        "part_of_speech": "verb",
+        "example": "Welcome home!"
+    },
+    {
+        "word": "WINGSUIT",
+        "part_of_speech": "noun",
+        "example": "He flew through the sky wearing a skysuit."
+    },
+    {
+        "word": "WORKING",
+        "part_of_speech": "verb",
+        "example": "I'm working next saturday."
+    },
+    {
+        "word": "YESTERDAY",
+        "part_of_speech": "adverb",
+        "example": "Yesterday was my birthday."
+    },
+    {
+        "word": "YOGURT",
+        "part_of_speech": "noun",
+        "example": "I had a bowl of yogurt with granola and honey for breakfast."
+    }
+]
