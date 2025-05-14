@@ -39,6 +39,8 @@ The **Spelling Bee Application** is a Python-based tool designed to assist users
 ├── assets/ # Icons and logos
 │ └── *.png, *.ico
 │
+├── audios/ # Notification sound and words audio files
+│
 └── improvements.txt # Suggestions or planned enhancements
 └── requirements.txt # Libraries to be install via pip
 ```
